@@ -1,0 +1,32 @@
+{"level":"error","message":"📦 [Redis] connection failed: connect ECONNREFUSED 127.0.0.1:6379","timestamp":"2026-03-30 17:09:02"}
+{"level":"error","message":"📦 [Redis] connection failed: Connection is closed.","timestamp":"2026-03-30 17:09:02"}
+{"level":"error","message":"❌ [ERROR] html.indexOf is not a function","timestamp":"2026-03-30 20:34:46"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:34:47"}
+{"level":"error","message":"❌ [ERROR] Request failed with status code 403","timestamp":"2026-03-30 20:34:47"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:34:59"}
+{"level":"error","message":"❌ [ERROR] timeout of 6000ms exceeded","timestamp":"2026-03-30 20:34:59"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:35:28"}
+{"level":"error","message":"❌ [ERROR] timeout of 6000ms exceeded","timestamp":"2026-03-30 20:35:28"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:35:47"}
+{"level":"error","message":"❌ [ERROR] timeout of 6000ms exceeded","timestamp":"2026-03-30 20:35:47"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:35:49"}
+{"level":"error","message":"❌ [ERROR] certificate has expired","timestamp":"2026-03-30 20:35:49"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:37:37"}
+{"level":"error","message":"❌ [ERROR] Request failed with status code 403","timestamp":"2026-03-30 20:37:37"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:37:38"}
+{"level":"error","message":"❌ [ERROR] certificate has expired","timestamp":"2026-03-30 20:37:38"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:37:47"}
+{"level":"error","message":"❌ [ERROR] timeout of 6000ms exceeded","timestamp":"2026-03-30 20:37:47"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:37:53"}
+{"level":"error","message":"❌ [ERROR] timeout of 6000ms exceeded","timestamp":"2026-03-30 20:37:53"}
+{"level":"error","message":"❌ [ERROR] html.indexOf is not a function","timestamp":"2026-03-30 20:37:54"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:38:00"}
+{"level":"error","message":"❌ [ERROR] timeout of 6000ms exceeded","timestamp":"2026-03-30 20:38:00"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:38:06"}
+{"level":"error","message":"❌ [ERROR] timeout of 6000ms exceeded","timestamp":"2026-03-30 20:38:06"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:38:12"}
+{"level":"error","message":"❌ [ERROR] timeout of 6000ms exceeded","timestamp":"2026-03-30 20:38:12"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:38:16"}
+{"level":"error","message":"❌ [ERROR] Request failed with status code 403","timestamp":"2026-03-30 20:38:16"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:38:24"}
+{"level":"error","message":"❌ [ERROR] timeout of 6000ms exceeded","timestamp":"2026-03-30 20:38:24"}

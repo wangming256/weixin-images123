@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "skills": {
+    "self-improving-agent": {
+      "version": "3.0.10",
+      "installedAt": 1774860064557
+    },
+    "daily-hot-news": {
+      "version": "1.0.1",
+      "installedAt": 1774860400051
+    },
+    "akshare-stock": {
+      "version": "1.0.1",
+      "installedAt": 1774927662306
+    },
+    "feishu-edge-tts-voice": {
+      "version": "1.0.0",
+      "installedAt": 1774927690620
+    },
+    "desktop-control-1-0-0": {
+      "version": "1.0.0",
+      "installedAt": 1775223397416
+    }
+  }
+}

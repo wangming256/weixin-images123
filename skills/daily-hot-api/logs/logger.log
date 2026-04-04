@@ -1,0 +1,408 @@
+{"level":"info","message":"🔥 DailyHot API successfully runs on port 6688","timestamp":"2026-03-30 17:05:04"}
+{"level":"info","message":"🔗 Local: 👉 http://localhost:6688","timestamp":"2026-03-30 17:05:04"}
+{"level":"info","message":"🔥 DailyHot API successfully runs on port 6688","timestamp":"2026-03-30 17:08:13"}
+{"level":"info","message":"🔗 Local: 👉 http://localhost:6688","timestamp":"2026-03-30 17:08:13"}
+{"level":"info","message":"🌐 [GET] https://weibo.com/ajax/side/hotSearch","timestamp":"2026-03-30 17:09:02"}
+{"level":"error","message":"📦 [Redis] connection failed: connect ECONNREFUSED 127.0.0.1:6379","timestamp":"2026-03-30 17:09:02"}
+{"level":"error","message":"📦 [Redis] connection failed: Connection is closed.","timestamp":"2026-03-30 17:09:02"}
+{"level":"info","message":"💾 [NodeCache] https://weibo.com/ajax/side/hotSearch has been cached","timestamp":"2026-03-30 17:09:02"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 17:09:02"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://weibo.com/ajax/side/hotSearch\" has been deleted.","timestamp":"2026-03-30 17:19:02"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://weibo.com/ajax/side/hotSearch\" has expired.","timestamp":"2026-03-30 17:19:02"}
+{"level":"info","message":"🌐 [GET] https://weibo.com/ajax/side/hotSearch","timestamp":"2026-03-30 20:23:46"}
+{"level":"info","message":"💾 [NodeCache] https://weibo.com/ajax/side/hotSearch has been cached","timestamp":"2026-03-30 20:23:46"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:23:46"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://weibo.com/ajax/side/hotSearch\" has been deleted.","timestamp":"2026-03-30 20:25:56"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://weibo.com/ajax/side/hotSearch\" has expired.","timestamp":"2026-03-30 20:25:56"}
+{"level":"info","message":"🌐 [GET] https://api.bilibili.com/x/web-interface/nav","timestamp":"2026-03-30 20:34:42"}
+{"level":"info","message":"💾 [NodeCache] https://api.bilibili.com/x/web-interface/nav has been cached","timestamp":"2026-03-30 20:34:42"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:34:42"}
+{"level":"info","message":"💾 [NodeCache] bilibili-wbi has been cached","timestamp":"2026-03-30 20:34:42"}
+{"level":"info","message":"🌐 [GET] https://api.bilibili.com/x/web-interface/ranking/v2?rid=0&type=all&bar=514&baz=1919810&foo=114&wts=1774874083&w_rid=f9e4361da007fdb2ce80d46fe14fa58f","timestamp":"2026-03-30 20:34:42"}
+{"level":"info","message":"💾 [NodeCache] https://api.bilibili.com/x/web-interface/ranking/v2?rid=0&type=all&bar=514&baz=1919810&foo=114&wts=1774874083&w_rid=f9e4361da007fdb2ce80d46fe14fa58f has been cached","timestamp":"2026-03-30 20:34:43"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:34:43"}
+{"level":"info","message":"bilibili 新接口","timestamp":"2026-03-30 20:34:43"}
+{"level":"info","message":"🌐 [GET] https://www.acfun.cn/rest/pc-direct/rank/channel?channelId=&rankLimit=30&rankPeriod=DAY","timestamp":"2026-03-30 20:34:43"}
+{"level":"info","message":"💾 [NodeCache] https://www.acfun.cn/rest/pc-direct/rank/channel?channelId=&rankLimit=30&rankPeriod=DAY has been cached","timestamp":"2026-03-30 20:34:44"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:34:44"}
+{"level":"info","message":"🌐 [GET] https://www.douyin.com/passport/general/login_guiding_strategy/?aid=6383","timestamp":"2026-03-30 20:34:45"}
+{"level":"info","message":"💾 [NodeCache] https://www.douyin.com/passport/general/login_guiding_strategy/?aid=6383 has been cached","timestamp":"2026-03-30 20:34:45"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:34:45"}
+{"level":"info","message":"🌐 [GET] https://www.douyin.com/aweme/v1/web/hot/search/list/?device_platform=webapp&aid=6383&channel=channel_pc_web&detail_list=1","timestamp":"2026-03-30 20:34:45"}
+{"level":"info","message":"💾 [NodeCache] https://www.douyin.com/aweme/v1/web/hot/search/list/?device_platform=webapp&aid=6383&channel=channel_pc_web&detail_list=1 has been cached","timestamp":"2026-03-30 20:34:45"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:34:45"}
+{"level":"info","message":"🌐 [GET] https://www.kuaishou.com/?isHome=1","timestamp":"2026-03-30 20:34:46"}
+{"level":"info","message":"💾 [NodeCache] https://www.kuaishou.com/?isHome=1 has been cached","timestamp":"2026-03-30 20:34:46"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:34:46"}
+{"level":"error","message":"❌ [ERROR] html.indexOf is not a function","timestamp":"2026-03-30 20:34:46"}
+{"level":"info","message":"🌐 [GET] https://api.coolapk.com/v6/page/dataList?url=/feed/statList?cacheExpires=300&statType=day&sortField=detailnum&title=今日热门&title=今日热门&subTitle=&page=1","timestamp":"2026-03-30 20:34:47"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:34:47"}
+{"level":"error","message":"❌ [ERROR] Request failed with status code 403","timestamp":"2026-03-30 20:34:47"}
+{"level":"info","message":"🌐 [GET] https://weibo.com/ajax/side/hotSearch","timestamp":"2026-03-30 20:34:48"}
+{"level":"info","message":"💾 [NodeCache] https://weibo.com/ajax/side/hotSearch has been cached","timestamp":"2026-03-30 20:34:48"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:34:48"}
+{"level":"info","message":"🌐 [GET] https://api.zhihu.com/topstory/hot-lists/total?limit=50","timestamp":"2026-03-30 20:34:49"}
+{"level":"info","message":"💾 [NodeCache] https://api.zhihu.com/topstory/hot-lists/total?limit=50 has been cached","timestamp":"2026-03-30 20:34:49"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:34:49"}
+{"level":"info","message":"🌐 [GET] https://daily.zhihu.com/api/4/news/latest","timestamp":"2026-03-30 20:34:50"}
+{"level":"info","message":"💾 [NodeCache] https://daily.zhihu.com/api/4/news/latest has been cached","timestamp":"2026-03-30 20:34:50"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:34:50"}
+{"level":"info","message":"🌐 [GET] https://tieba.baidu.com/hottopic/browse/topicList","timestamp":"2026-03-30 20:34:51"}
+{"level":"info","message":"💾 [NodeCache] https://tieba.baidu.com/hottopic/browse/topicList has been cached","timestamp":"2026-03-30 20:34:51"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:34:51"}
+{"level":"info","message":"🌐 [GET] https://www.douban.com/group/explore","timestamp":"2026-03-30 20:34:52"}
+{"level":"info","message":"💾 [NodeCache] https://www.douban.com/group/explore has been cached","timestamp":"2026-03-30 20:34:52"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:34:52"}
+{"level":"info","message":"🌐 [GET] https://www.v2ex.com/api/topics/hot.json","timestamp":"2026-03-30 20:34:53"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:34:59"}
+{"level":"error","message":"❌ [ERROR] timeout of 6000ms exceeded","timestamp":"2026-03-30 20:34:59"}
+{"level":"info","message":"🌐 [POST] https://ngabbs.com/nuke.php?__lib=load_topic&__act=load_topic_reply_ladder2&opt=1&all=1","timestamp":"2026-03-30 20:35:00"}
+{"level":"info","message":"💾 [NodeCache] https://ngabbs.com/nuke.php?__lib=load_topic&__act=load_topic_reply_ladder2&opt=1&all=1 has been cached","timestamp":"2026-03-30 20:35:00"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:00"}
+{"level":"info","message":"🌐 [GET] https://m.hupu.com/api/v2/bbs/topicThreads?topicId=1&page=1","timestamp":"2026-03-30 20:35:01"}
+{"level":"info","message":"💾 [NodeCache] https://m.hupu.com/api/v2/bbs/topicThreads?topicId=1&page=1 has been cached","timestamp":"2026-03-30 20:35:01"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:01"}
+{"level":"info","message":"🌐 [GET] https://top.baidu.com/board?tab=realtime","timestamp":"2026-03-30 20:35:02"}
+{"level":"info","message":"💾 [NodeCache] https://top.baidu.com/board?tab=realtime has been cached","timestamp":"2026-03-30 20:35:02"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:02"}
+{"level":"info","message":"🌐 [GET] https://cache.thepaper.cn/contentapi/wwwIndex/rightSidebar","timestamp":"2026-03-30 20:35:03"}
+{"level":"info","message":"💾 [NodeCache] https://cache.thepaper.cn/contentapi/wwwIndex/rightSidebar has been cached","timestamp":"2026-03-30 20:35:03"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:03"}
+{"level":"info","message":"🌐 [GET] https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc","timestamp":"2026-03-30 20:35:04"}
+{"level":"info","message":"💾 [NodeCache] https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc has been cached","timestamp":"2026-03-30 20:35:04"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:04"}
+{"level":"info","message":"🌐 [POST] https://gateway.36kr.com/api/mis/nav/home/nav/rank/hot","timestamp":"2026-03-30 20:35:05"}
+{"level":"info","message":"💾 [NodeCache] https://gateway.36kr.com/api/mis/nav/home/nav/rank/hot has been cached","timestamp":"2026-03-30 20:35:05"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:05"}
+{"level":"info","message":"🌐 [GET] https://r.inews.qq.com/gw/event/hot_ranking_list?page_size=50","timestamp":"2026-03-30 20:35:06"}
+{"level":"info","message":"💾 [NodeCache] https://r.inews.qq.com/gw/event/hot_ranking_list?page_size=50 has been cached","timestamp":"2026-03-30 20:35:06"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:06"}
+{"level":"info","message":"🌐 [GET] https://newsapp.sina.cn/api/hotlist?newsId=HB-1-snhs%2Ftop_news_list-all","timestamp":"2026-03-30 20:35:07"}
+{"level":"info","message":"💾 [NodeCache] https://newsapp.sina.cn/api/hotlist?newsId=HB-1-snhs%2Ftop_news_list-all has been cached","timestamp":"2026-03-30 20:35:07"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:07"}
+{"level":"info","message":"🌐 [GET] https://top.news.sina.com.cn/ws/GetTopDataList.php?top_type=day&top_cat=www_www_all_suda_suda&top_time=20260330&top_show_num=50","timestamp":"2026-03-30 20:35:08"}
+{"level":"info","message":"💾 [NodeCache] https://top.news.sina.com.cn/ws/GetTopDataList.php?top_type=day&top_cat=www_www_all_suda_suda&top_time=20260330&top_show_num=50 has been cached","timestamp":"2026-03-30 20:35:09"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:09"}
+{"level":"info","message":"🌐 [GET] https://m.163.com/fe/api/hot/news/flow","timestamp":"2026-03-30 20:35:10"}
+{"level":"info","message":"💾 [NodeCache] https://m.163.com/fe/api/hot/news/flow has been cached","timestamp":"2026-03-30 20:35:10"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:10"}
+{"level":"info","message":"🌐 [GET] https://sso.ifanr.com/api/v5/wp/buzz/?limit=20&offset=0","timestamp":"2026-03-30 20:35:12"}
+{"level":"info","message":"💾 [NodeCache] https://sso.ifanr.com/api/v5/wp/buzz/?limit=20&offset=0 has been cached","timestamp":"2026-03-30 20:35:13"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:13"}
+{"level":"info","message":"🌐 [GET] https://m.ithome.com/rankm/","timestamp":"2026-03-30 20:35:14"}
+{"level":"info","message":"💾 [NodeCache] https://m.ithome.com/rankm/ has been cached","timestamp":"2026-03-30 20:35:14"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:14"}
+{"level":"info","message":"🌐 [GET] https://www.ithome.com/zt/xijiayi","timestamp":"2026-03-30 20:35:15"}
+{"level":"info","message":"💾 [NodeCache] https://www.ithome.com/zt/xijiayi has been cached","timestamp":"2026-03-30 20:35:15"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:15"}
+{"level":"info","message":"🌐 [GET] https://sspai.com/api/v1/article/tag/page/get?limit=40&tag=热门文章","timestamp":"2026-03-30 20:35:16"}
+{"level":"info","message":"💾 [NodeCache] https://sspai.com/api/v1/article/tag/page/get?limit=40&tag=热门文章 has been cached","timestamp":"2026-03-30 20:35:18"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:18"}
+{"level":"info","message":"🌐 [GET] https://blog.csdn.net/phoenix/web/blog/hot-rank?page=0&pageSize=30","timestamp":"2026-03-30 20:35:18"}
+{"level":"info","message":"💾 [NodeCache] https://blog.csdn.net/phoenix/web/blog/hot-rank?page=0&pageSize=30 has been cached","timestamp":"2026-03-30 20:35:19"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:19"}
+{"level":"info","message":"🌐 [GET] https://api.juejin.cn/content_api/v1/content/article_rank?category_id=1&type=hot","timestamp":"2026-03-30 20:35:20"}
+{"level":"info","message":"💾 [NodeCache] https://api.juejin.cn/content_api/v1/content/article_rank?category_id=1&type=hot has been cached","timestamp":"2026-03-30 20:35:20"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:20"}
+{"level":"info","message":"🌐 [GET] https://api.juejin.cn/tag_api/v1/query_category_briefs","timestamp":"2026-03-30 20:35:20"}
+{"level":"info","message":"💾 [NodeCache] https://api.juejin.cn/tag_api/v1/query_category_briefs has been cached","timestamp":"2026-03-30 20:35:20"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:20"}
+{"level":"info","message":"🌐 [GET] https://api-media.51cto.com/api/token-get","timestamp":"2026-03-30 20:35:21"}
+{"level":"info","message":"💾 [NodeCache] https://api-media.51cto.com/api/token-get has been cached","timestamp":"2026-03-30 20:35:21"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:21"}
+{"level":"info","message":"💾 [NodeCache] 51cto-token has been cached","timestamp":"2026-03-30 20:35:21"}
+{"level":"info","message":"🌐 [GET] https://api-media.51cto.com/index/index/recommend","timestamp":"2026-03-30 20:35:21"}
+{"level":"info","message":"💾 [NodeCache] https://api-media.51cto.com/index/index/recommend has been cached","timestamp":"2026-03-30 20:35:22"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:22"}
+{"level":"info","message":"🌐 [GET] https://rss.nodeseek.com/","timestamp":"2026-03-30 20:35:22"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:35:28"}
+{"level":"error","message":"❌ [ERROR] timeout of 6000ms exceeded","timestamp":"2026-03-30 20:35:28"}
+{"level":"info","message":"🌐 [GET] https://abroad.hellogithub.com/v1/?sort_by=featured&tid=&page=1","timestamp":"2026-03-30 20:35:29"}
+{"level":"info","message":"💾 [NodeCache] https://abroad.hellogithub.com/v1/?sort_by=featured&tid=&page=1 has been cached","timestamp":"2026-03-30 20:35:30"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:30"}
+{"level":"info","message":"🌐 [GET] https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=2&last_id=&page_size=20&type=1","timestamp":"2026-03-30 20:35:31"}
+{"level":"info","message":"💾 [NodeCache] https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=2&last_id=&page_size=20&type=1 has been cached","timestamp":"2026-03-30 20:35:31"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:31"}
+{"level":"info","message":"🌐 [GET] https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=1&last_id=&page_size=30&type=1","timestamp":"2026-03-30 20:35:32"}
+{"level":"info","message":"💾 [NodeCache] https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=1&last_id=&page_size=30&type=1 has been cached","timestamp":"2026-03-30 20:35:32"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:32"}
+{"level":"info","message":"🌐 [GET] https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=1&last_id=&page_size=20&type=1","timestamp":"2026-03-30 20:35:33"}
+{"level":"info","message":"💾 [NodeCache] https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=1&last_id=&page_size=20&type=1 has been cached","timestamp":"2026-03-30 20:35:33"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:33"}
+{"level":"info","message":"🌐 [GET] https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=6&page_size=20&type=1","timestamp":"2026-03-30 20:35:34"}
+{"level":"info","message":"💾 [NodeCache] https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=6&page_size=20&type=1 has been cached","timestamp":"2026-03-30 20:35:34"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:34"}
+{"level":"info","message":"🌐 [GET] https://apps.game.qq.com/cmc/zmMcnTargetContentList?r0=json&page=1&num=30&target=24&source=web_pc","timestamp":"2026-03-30 20:35:35"}
+{"level":"info","message":"💾 [NodeCache] https://apps.game.qq.com/cmc/zmMcnTargetContentList?r0=json&page=1&num=30&target=24&source=web_pc has been cached","timestamp":"2026-03-30 20:35:35"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:35"}
+{"level":"info","message":"🌐 [GET] https://www.jianshu.com/","timestamp":"2026-03-30 20:35:36"}
+{"level":"info","message":"💾 [NodeCache] https://www.jianshu.com/ has been cached","timestamp":"2026-03-30 20:35:36"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:36"}
+{"level":"info","message":"🌐 [GET] https://www.guokr.com/beta/proxy/science_api/articles?limit=30","timestamp":"2026-03-30 20:35:37"}
+{"level":"info","message":"💾 [NodeCache] https://www.guokr.com/beta/proxy/science_api/articles?limit=30 has been cached","timestamp":"2026-03-30 20:35:37"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:37"}
+{"level":"info","message":"🌐 [GET] https://weread.qq.com/web/bookListInCategory/rising?rank=1","timestamp":"2026-03-30 20:35:38"}
+{"level":"info","message":"💾 [NodeCache] https://weread.qq.com/web/bookListInCategory/rising?rank=1 has been cached","timestamp":"2026-03-30 20:35:38"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:38"}
+{"level":"info","message":"🌐 [GET] https://movie.douban.com/chart/","timestamp":"2026-03-30 20:35:39"}
+{"level":"info","message":"💾 [NodeCache] https://movie.douban.com/chart/ has been cached","timestamp":"2026-03-30 20:35:40"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:40"}
+{"level":"info","message":"🌐 [GET] https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1","timestamp":"2026-03-30 20:35:40"}
+{"level":"info","message":"💾 [NodeCache] https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1 has been cached","timestamp":"2026-03-30 20:35:41"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:41"}
+{"level":"info","message":"🌐 [GET] https://hostloc.com/forum.php?mod=guide&view=hot&rss=1","timestamp":"2026-03-30 20:35:41"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:35:47"}
+{"level":"error","message":"❌ [ERROR] timeout of 6000ms exceeded","timestamp":"2026-03-30 20:35:47"}
+{"level":"info","message":"🌐 [GET] http://www.nmc.cn/rest/findAlarm?pageNo=1&pageSize=20&signaltype=&signallevel=&province=","timestamp":"2026-03-30 20:35:48"}
+{"level":"info","message":"💾 [NodeCache] http://www.nmc.cn/rest/findAlarm?pageNo=1&pageSize=20&signaltype=&signallevel=&province= has been cached","timestamp":"2026-03-30 20:35:48"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:48"}
+{"level":"info","message":"🌐 [GET] https://news.ceic.ac.cn/speedsearch.html","timestamp":"2026-03-30 20:35:49"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:35:49"}
+{"level":"error","message":"❌ [ERROR] certificate has expired","timestamp":"2026-03-30 20:35:49"}
+{"level":"info","message":"🌐 [GET] https://baike.baidu.com/cms/home/eventsOnHistory/03.json","timestamp":"2026-03-30 20:35:50"}
+{"level":"info","message":"💾 [NodeCache] https://baike.baidu.com/cms/home/eventsOnHistory/03.json has been cached","timestamp":"2026-03-30 20:35:51"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:35:51"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://weibo.com/ajax/side/hotSearch\" has been deleted.","timestamp":"2026-03-30 20:35:56"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://weibo.com/ajax/side/hotSearch\" has expired.","timestamp":"2026-03-30 20:35:56"}
+{"level":"info","message":"🌐 [GET] https://weibo.com/ajax/side/hotSearch","timestamp":"2026-03-30 20:36:43"}
+{"level":"info","message":"💾 [NodeCache] https://weibo.com/ajax/side/hotSearch has been cached","timestamp":"2026-03-30 20:36:43"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:36:43"}
+{"level":"info","message":"🌐 [POST] https://gateway.36kr.com/api/mis/nav/home/nav/rank/hot","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"🌐 [GET] https://api-media.51cto.com/index/index/recommend","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"🌐 [GET] https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"🌐 [GET] https://www.acfun.cn/rest/pc-direct/rank/channel?channelId=&rankLimit=30&rankPeriod=DAY","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"🌐 [GET] https://top.baidu.com/board?tab=realtime","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"🌐 [GET] https://api.bilibili.com/x/web-interface/ranking/v2?rid=0&type=all&bar=514&baz=1919810&foo=114&wts=1774874083&w_rid=f9e4361da007fdb2ce80d46fe14fa58f","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"bilibili 新接口","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"🌐 [GET] https://api.coolapk.com/v6/page/dataList?url=/feed/statList?cacheExpires=300&statType=day&sortField=detailnum&title=今日热门&title=今日热门&subTitle=&page=1","timestamp":"2026-03-30 20:37:37"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:37:37"}
+{"level":"error","message":"❌ [ERROR] Request failed with status code 403","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"🌐 [GET] https://blog.csdn.net/phoenix/web/blog/hot-rank?page=0&pageSize=30","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"🌐 [GET] https://opser.api.dgtle.com/v2/news/index","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"💾 [NodeCache] https://opser.api.dgtle.com/v2/news/index has been cached","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"🌐 [GET] https://www.douban.com/group/explore","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:37"}
+{"level":"info","message":"🌐 [GET] https://movie.douban.com/chart/","timestamp":"2026-03-30 20:37:38"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:38"}
+{"level":"info","message":"🌐 [GET] https://www.douyin.com/passport/general/login_guiding_strategy/?aid=6383","timestamp":"2026-03-30 20:37:38"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:38"}
+{"level":"info","message":"🌐 [GET] https://www.douyin.com/aweme/v1/web/hot/search/list/?device_platform=webapp&aid=6383&channel=channel_pc_web&detail_list=1","timestamp":"2026-03-30 20:37:38"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:38"}
+{"level":"info","message":"🌐 [GET] https://news.ceic.ac.cn/speedsearch.html","timestamp":"2026-03-30 20:37:38"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:37:38"}
+{"level":"error","message":"❌ [ERROR] certificate has expired","timestamp":"2026-03-30 20:37:38"}
+{"level":"info","message":"🌐 [GET] https://www.gameres.com","timestamp":"2026-03-30 20:37:38"}
+{"level":"info","message":"💾 [NodeCache] https://www.gameres.com has been cached","timestamp":"2026-03-30 20:37:38"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:37:38"}
+{"level":"info","message":"🌐 [GET] https://mainssl.geekpark.net/api/v2","timestamp":"2026-03-30 20:37:38"}
+{"level":"info","message":"💾 [NodeCache] https://mainssl.geekpark.net/api/v2 has been cached","timestamp":"2026-03-30 20:37:39"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:37:39"}
+{"level":"info","message":"🌐 [GET] https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=2&last_id=&page_size=20&type=1","timestamp":"2026-03-30 20:37:39"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:39"}
+{"level":"info","message":"🌐 [GET] https://github.com/trending?since=daily","timestamp":"2026-03-30 20:37:39"}
+{"level":"info","message":"💾 [NodeCache] https://github.com/trending?since=daily has been cached","timestamp":"2026-03-30 20:37:41"}
+{"level":"info","message":"✅ [200] 请求成功！","timestamp":"2026-03-30 20:37:41"}
+{"level":"info","message":"🌐 [GET] https://www.guokr.com/beta/proxy/science_api/articles?limit=30","timestamp":"2026-03-30 20:37:41"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:41"}
+{"level":"info","message":"🌐 [GET] https://news.ycombinator.com","timestamp":"2026-03-30 20:37:41"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:37:47"}
+{"level":"error","message":"❌ [ERROR] timeout of 6000ms exceeded","timestamp":"2026-03-30 20:37:47"}
+{"level":"info","message":"🌐 [GET] https://abroad.hellogithub.com/v1/?sort_by=featured&tid=&page=1","timestamp":"2026-03-30 20:37:47"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:47"}
+{"level":"info","message":"🌐 [GET] https://baike.baidu.com/cms/home/eventsOnHistory/03.json","timestamp":"2026-03-30 20:37:47"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:47"}
+{"level":"info","message":"🌐 [GET] https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=1&last_id=&page_size=20&type=1","timestamp":"2026-03-30 20:37:47"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:47"}
+{"level":"info","message":"🌐 [GET] https://hostloc.com/forum.php?mod=guide&view=hot&rss=1","timestamp":"2026-03-30 20:37:47"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:37:53"}
+{"level":"error","message":"❌ [ERROR] timeout of 6000ms exceeded","timestamp":"2026-03-30 20:37:53"}
+{"level":"info","message":"🌐 [GET] https://m.hupu.com/api/v2/bbs/topicThreads?topicId=1&page=1","timestamp":"2026-03-30 20:37:53"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:53"}
+{"level":"info","message":"🌐 [GET] https://sso.ifanr.com/api/v5/wp/buzz/?limit=20&offset=0","timestamp":"2026-03-30 20:37:54"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:54"}
+{"level":"info","message":"🌐 [GET] https://www.ithome.com/zt/xijiayi","timestamp":"2026-03-30 20:37:54"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:54"}
+{"level":"info","message":"🌐 [GET] https://m.ithome.com/rankm/","timestamp":"2026-03-30 20:37:54"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:54"}
+{"level":"info","message":"🌐 [GET] https://www.jianshu.com/","timestamp":"2026-03-30 20:37:54"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:54"}
+{"level":"info","message":"🌐 [GET] https://api.juejin.cn/content_api/v1/content/article_rank?category_id=1&type=hot","timestamp":"2026-03-30 20:37:54"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:54"}
+{"level":"info","message":"🌐 [GET] https://api.juejin.cn/tag_api/v1/query_category_briefs","timestamp":"2026-03-30 20:37:54"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:54"}
+{"level":"info","message":"🌐 [GET] https://www.kuaishou.com/?isHome=1","timestamp":"2026-03-30 20:37:54"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:37:54"}
+{"level":"error","message":"❌ [ERROR] html.indexOf is not a function","timestamp":"2026-03-30 20:37:54"}
+{"level":"info","message":"🌐 [GET] https://linux.do/top.rss?period=weekly","timestamp":"2026-03-30 20:37:54"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:38:00"}
+{"level":"error","message":"❌ [ERROR] timeout of 6000ms exceeded","timestamp":"2026-03-30 20:38:00"}
+{"level":"info","message":"🌐 [GET] https://apps.game.qq.com/cmc/zmMcnTargetContentList?r0=json&page=1&num=30&target=24&source=web_pc","timestamp":"2026-03-30 20:38:00"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:38:00"}
+{"level":"info","message":"🌐 [GET] https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=1&last_id=&page_size=30&type=1","timestamp":"2026-03-30 20:38:00"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:38:00"}
+{"level":"info","message":"🌐 [GET] https://m.163.com/fe/api/hot/news/flow","timestamp":"2026-03-30 20:38:00"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:38:00"}
+{"level":"info","message":"🌐 [GET] https://wap.newsmth.net/wap/api/hot/global","timestamp":"2026-03-30 20:38:00"}
+{"level":"info","message":"💾 [NodeCache] https://wap.newsmth.net/wap/api/hot/global has been cached","timestamp":"2026-03-30 20:38:00"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:38:00"}
+{"level":"info","message":"🌐 [POST] https://ngabbs.com/nuke.php?__lib=load_topic&__act=load_topic_reply_ladder2&opt=1&all=1","timestamp":"2026-03-30 20:38:00"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:38:00"}
+{"level":"info","message":"🌐 [GET] https://rss.nodeseek.com/","timestamp":"2026-03-30 20:38:00"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:38:06"}
+{"level":"error","message":"❌ [ERROR] timeout of 6000ms exceeded","timestamp":"2026-03-30 20:38:06"}
+{"level":"info","message":"🌐 [GET] https://cn.nytimes.com/rss/","timestamp":"2026-03-30 20:38:06"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:38:12"}
+{"level":"error","message":"❌ [ERROR] timeout of 6000ms exceeded","timestamp":"2026-03-30 20:38:12"}
+{"level":"info","message":"🌐 [GET] https://www.producthunt.com","timestamp":"2026-03-30 20:38:12"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:38:16"}
+{"level":"error","message":"❌ [ERROR] Request failed with status code 403","timestamp":"2026-03-30 20:38:16"}
+{"level":"info","message":"🌐 [GET] https://r.inews.qq.com/gw/event/hot_ranking_list?page_size=50","timestamp":"2026-03-30 20:38:16"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:38:16"}
+{"level":"info","message":"🌐 [GET] https://top.news.sina.com.cn/ws/GetTopDataList.php?top_type=day&top_cat=www_www_all_suda_suda&top_time=20260330&top_show_num=50","timestamp":"2026-03-30 20:38:16"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:38:16"}
+{"level":"info","message":"🌐 [GET] https://newsapp.sina.cn/api/hotlist?newsId=HB-1-snhs%2Ftop_news_list-all","timestamp":"2026-03-30 20:38:16"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:38:16"}
+{"level":"info","message":"🌐 [GET] https://post.smzdm.com/rank/json_more/?unit=1","timestamp":"2026-03-30 20:38:16"}
+{"level":"info","message":"💾 [NodeCache] https://post.smzdm.com/rank/json_more/?unit=1 has been cached","timestamp":"2026-03-30 20:38:17"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:38:17"}
+{"level":"info","message":"🌐 [GET] https://sspai.com/api/v1/article/tag/page/get?limit=40&tag=热门文章","timestamp":"2026-03-30 20:38:17"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:38:17"}
+{"level":"info","message":"🌐 [GET] https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=6&page_size=20&type=1","timestamp":"2026-03-30 20:38:17"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:38:17"}
+{"level":"info","message":"🌐 [GET] https://cache.thepaper.cn/contentapi/wwwIndex/rightSidebar","timestamp":"2026-03-30 20:38:17"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:38:17"}
+{"level":"info","message":"🌐 [GET] https://tieba.baidu.com/hottopic/browse/topicList","timestamp":"2026-03-30 20:38:17"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:38:17"}
+{"level":"info","message":"🌐 [GET] https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc","timestamp":"2026-03-30 20:38:18"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:38:18"}
+{"level":"info","message":"🌐 [GET] https://www.v2ex.com/api/topics/hot.json","timestamp":"2026-03-30 20:38:18"}
+{"level":"error","message":"❌ [ERROR] request failed","timestamp":"2026-03-30 20:38:24"}
+{"level":"error","message":"❌ [ERROR] timeout of 6000ms exceeded","timestamp":"2026-03-30 20:38:24"}
+{"level":"info","message":"🌐 [GET] http://www.nmc.cn/rest/findAlarm?pageNo=1&pageSize=20&signaltype=&signallevel=&province=","timestamp":"2026-03-30 20:38:24"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:38:24"}
+{"level":"info","message":"🌐 [GET] https://weibo.com/ajax/side/hotSearch","timestamp":"2026-03-30 20:38:24"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://weibo.com/ajax/side/hotSearch\" has been deleted.","timestamp":"2026-03-30 20:38:24"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://weibo.com/ajax/side/hotSearch\" has expired.","timestamp":"2026-03-30 20:38:24"}
+{"level":"info","message":"💾 [NodeCache] https://weibo.com/ajax/side/hotSearch has been cached","timestamp":"2026-03-30 20:38:24"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:38:24"}
+{"level":"info","message":"🌐 [GET] https://weread.qq.com/web/bookListInCategory/rising?rank=1","timestamp":"2026-03-30 20:38:24"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:38:24"}
+{"level":"info","message":"🌐 [GET] https://www.yystv.cn/home/get_home_docs_by_page","timestamp":"2026-03-30 20:38:24"}
+{"level":"info","message":"💾 [NodeCache] https://www.yystv.cn/home/get_home_docs_by_page has been cached","timestamp":"2026-03-30 20:38:24"}
+{"level":"info","message":"✅ [200] request was successful","timestamp":"2026-03-30 20:38:24"}
+{"level":"info","message":"🌐 [GET] https://daily.zhihu.com/api/4/news/latest","timestamp":"2026-03-30 20:38:24"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:38:24"}
+{"level":"info","message":"🌐 [GET] https://api.zhihu.com/topstory/hot-lists/total?limit=50","timestamp":"2026-03-30 20:38:24"}
+{"level":"info","message":"💾 [CHCHE] The request is cached","timestamp":"2026-03-30 20:38:24"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://weibo.com/ajax/side/hotSearch\" has been deleted.","timestamp":"2026-03-30 20:45:56"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://weibo.com/ajax/side/hotSearch\" has expired.","timestamp":"2026-03-30 20:45:56"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://api.bilibili.com/x/web-interface/nav\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://api.bilibili.com/x/web-interface/nav\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"bilibili-wbi\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"bilibili-wbi\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://api.bilibili.com/x/web-interface/ranking/v2?rid=0&type=all&bar=514&baz=1919810&foo=114&wts=1774874083&w_rid=f9e4361da007fdb2ce80d46fe14fa58f\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://api.bilibili.com/x/web-interface/ranking/v2?rid=0&type=all&bar=514&baz=1919810&foo=114&wts=1774874083&w_rid=f9e4361da007fdb2ce80d46fe14fa58f\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://www.acfun.cn/rest/pc-direct/rank/channel?channelId=&rankLimit=30&rankPeriod=DAY\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://www.acfun.cn/rest/pc-direct/rank/channel?channelId=&rankLimit=30&rankPeriod=DAY\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://www.douyin.com/passport/general/login_guiding_strategy/?aid=6383\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://www.douyin.com/passport/general/login_guiding_strategy/?aid=6383\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://www.douyin.com/aweme/v1/web/hot/search/list/?device_platform=webapp&aid=6383&channel=channel_pc_web&detail_list=1\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://www.douyin.com/aweme/v1/web/hot/search/list/?device_platform=webapp&aid=6383&channel=channel_pc_web&detail_list=1\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://www.kuaishou.com/?isHome=1\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://www.kuaishou.com/?isHome=1\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://api.zhihu.com/topstory/hot-lists/total?limit=50\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://api.zhihu.com/topstory/hot-lists/total?limit=50\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://daily.zhihu.com/api/4/news/latest\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://daily.zhihu.com/api/4/news/latest\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://tieba.baidu.com/hottopic/browse/topicList\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://tieba.baidu.com/hottopic/browse/topicList\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://www.douban.com/group/explore\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://www.douban.com/group/explore\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://ngabbs.com/nuke.php?__lib=load_topic&__act=load_topic_reply_ladder2&opt=1&all=1\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://ngabbs.com/nuke.php?__lib=load_topic&__act=load_topic_reply_ladder2&opt=1&all=1\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://m.hupu.com/api/v2/bbs/topicThreads?topicId=1&page=1\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://m.hupu.com/api/v2/bbs/topicThreads?topicId=1&page=1\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://top.baidu.com/board?tab=realtime\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://top.baidu.com/board?tab=realtime\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://cache.thepaper.cn/contentapi/wwwIndex/rightSidebar\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://cache.thepaper.cn/contentapi/wwwIndex/rightSidebar\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://www.toutiao.com/hot-event/hot-board/?origin=toutiao_pc\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://gateway.36kr.com/api/mis/nav/home/nav/rank/hot\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://gateway.36kr.com/api/mis/nav/home/nav/rank/hot\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://r.inews.qq.com/gw/event/hot_ranking_list?page_size=50\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://r.inews.qq.com/gw/event/hot_ranking_list?page_size=50\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://newsapp.sina.cn/api/hotlist?newsId=HB-1-snhs%2Ftop_news_list-all\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://newsapp.sina.cn/api/hotlist?newsId=HB-1-snhs%2Ftop_news_list-all\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://top.news.sina.com.cn/ws/GetTopDataList.php?top_type=day&top_cat=www_www_all_suda_suda&top_time=20260330&top_show_num=50\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://top.news.sina.com.cn/ws/GetTopDataList.php?top_type=day&top_cat=www_www_all_suda_suda&top_time=20260330&top_show_num=50\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://m.163.com/fe/api/hot/news/flow\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://m.163.com/fe/api/hot/news/flow\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://sso.ifanr.com/api/v5/wp/buzz/?limit=20&offset=0\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://sso.ifanr.com/api/v5/wp/buzz/?limit=20&offset=0\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://m.ithome.com/rankm/\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://m.ithome.com/rankm/\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://www.ithome.com/zt/xijiayi\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://www.ithome.com/zt/xijiayi\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://sspai.com/api/v1/article/tag/page/get?limit=40&tag=热门文章\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://sspai.com/api/v1/article/tag/page/get?limit=40&tag=热门文章\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://blog.csdn.net/phoenix/web/blog/hot-rank?page=0&pageSize=30\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://blog.csdn.net/phoenix/web/blog/hot-rank?page=0&pageSize=30\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://api.juejin.cn/content_api/v1/content/article_rank?category_id=1&type=hot\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://api.juejin.cn/content_api/v1/content/article_rank?category_id=1&type=hot\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://api.juejin.cn/tag_api/v1/query_category_briefs\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://api.juejin.cn/tag_api/v1/query_category_briefs\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://api-media.51cto.com/api/token-get\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://api-media.51cto.com/api/token-get\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"51cto-token\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"51cto-token\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://api-media.51cto.com/index/index/recommend\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://api-media.51cto.com/index/index/recommend\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://abroad.hellogithub.com/v1/?sort_by=featured&tid=&page=1\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://abroad.hellogithub.com/v1/?sort_by=featured&tid=&page=1\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=2&last_id=&page_size=20&type=1\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=2&last_id=&page_size=20&type=1\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=1&last_id=&page_size=30&type=1\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=1&last_id=&page_size=30&type=1\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=1&last_id=&page_size=20&type=1\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=1&last_id=&page_size=20&type=1\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=6&page_size=20&type=1\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://bbs-api-static.miyoushe.com/painter/wapi/getNewsList?client_type=4&gids=6&page_size=20&type=1\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://apps.game.qq.com/cmc/zmMcnTargetContentList?r0=json&page=1&num=30&target=24&source=web_pc\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://apps.game.qq.com/cmc/zmMcnTargetContentList?r0=json&page=1&num=30&target=24&source=web_pc\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://www.jianshu.com/\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://www.jianshu.com/\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://www.guokr.com/beta/proxy/science_api/articles?limit=30\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://www.guokr.com/beta/proxy/science_api/articles?limit=30\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://weread.qq.com/web/bookListInCategory/rising?rank=1\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://weread.qq.com/web/bookListInCategory/rising?rank=1\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://movie.douban.com/chart/\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://movie.douban.com/chart/\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://www.52pojie.cn/forum.php?mod=guide&view=digest&rss=1\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"http://www.nmc.cn/rest/findAlarm?pageNo=1&pageSize=20&signaltype=&signallevel=&province=\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"http://www.nmc.cn/rest/findAlarm?pageNo=1&pageSize=20&signaltype=&signallevel=&province=\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://baike.baidu.com/cms/home/eventsOnHistory/03.json\" has been deleted.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://baike.baidu.com/cms/home/eventsOnHistory/03.json\" has expired.","timestamp":"2026-03-30 21:35:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://opser.api.dgtle.com/v2/news/index\" has been deleted.","timestamp":"2026-03-30 21:45:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://opser.api.dgtle.com/v2/news/index\" has expired.","timestamp":"2026-03-30 21:45:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://www.gameres.com\" has been deleted.","timestamp":"2026-03-30 21:45:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://www.gameres.com\" has expired.","timestamp":"2026-03-30 21:45:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://mainssl.geekpark.net/api/v2\" has been deleted.","timestamp":"2026-03-30 21:45:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://mainssl.geekpark.net/api/v2\" has expired.","timestamp":"2026-03-30 21:45:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://wap.newsmth.net/wap/api/hot/global\" has been deleted.","timestamp":"2026-03-30 21:45:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://wap.newsmth.net/wap/api/hot/global\" has expired.","timestamp":"2026-03-30 21:45:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://post.smzdm.com/rank/json_more/?unit=1\" has been deleted.","timestamp":"2026-03-30 21:45:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://post.smzdm.com/rank/json_more/?unit=1\" has expired.","timestamp":"2026-03-30 21:45:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://www.yystv.cn/home/get_home_docs_by_page\" has been deleted.","timestamp":"2026-03-30 21:45:57"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://www.yystv.cn/home/get_home_docs_by_page\" has expired.","timestamp":"2026-03-30 21:45:57"}
+{"level":"info","message":"🗑️ [NodeCache] Key \"https://github.com/trending?since=daily\" has been deleted.","timestamp":"2026-03-31 20:46:05"}
+{"level":"info","message":"⏳ [NodeCache] Key \"https://github.com/trending?since=daily\" has expired.","timestamp":"2026-03-31 20:46:05"}
